@@ -1,8 +1,12 @@
-# Welcome to your CDK TypeScript project!
+# ECS Cluster using AWS CDK and Typescript
 
 This is a blank project for TypeScript development with CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
+
+### Infrastructural Diagram and Reference
+
+![ECS infra](ecs_infrastructure.png)
 
 ## Useful commands
 
